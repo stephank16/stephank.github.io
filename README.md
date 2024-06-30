@@ -1,2 +1,0 @@
-# stephank.github.io
-blog
